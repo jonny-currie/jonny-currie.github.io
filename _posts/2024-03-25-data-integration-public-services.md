@@ -6,6 +6,9 @@
 
 ![COVID in Wales](/assets/covid-wales.jpg)
 
+[[/assets/covid-wales.jpg|COVID in Wales]]
+
+
 
 I still get the shivers thinking back to it now. It’s early March 2020, I’m in the unfortunate position as a doctor training in public health in Welsh Government, and am wracking my brains trying to work between government, our Welsh public health and digital health agencies and the professions as we try to accelerate access to data on people infected with COVID-19 and how the pandemic is affecting the health system.
 
