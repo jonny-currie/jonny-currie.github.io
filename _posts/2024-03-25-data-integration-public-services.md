@@ -4,6 +4,8 @@
 
 ### Data and collaboration in early 2020
 
+! [COVID, Wales](https://e3.365dm.com/20/03/2048x1152/skynews-coronavirus-wales_4953246.jpg)
+
 <img src="https://e3.365dm.com/20/03/2048x1152/skynews-coronavirus-wales_4953246.jpg" width=50% height=50%>
 
 [https://e3.365dm.com/20/03/2048x1152/skynews-coronavirus-wales_4953246.jpg|alt=covidwales]
