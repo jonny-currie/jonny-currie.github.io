@@ -4,9 +4,9 @@
 
 ### Data and collaboration in early 2020
 
-![COVID in Wales](/assets/covid-wales.jpg)
+![COVID in Wales](assets/covid-wales.jpg)
 
-[[/assets/covid-wales.jpg|COVID in Wales]]
+[[assets/covid-wales.jpg|COVID in Wales]]
 
 
 
