@@ -25,7 +25,7 @@ After learning some basic R coding language, my interest rose, leading me to wor
 
 #### Learning from the COVID-19 pandemic
 
-<img src="https://ichef.bbci.co.uk/news/2048/cpsprodpb/17A99/production/_126012969_optimised-ons_uk_timeseries_22jul-nc-002.png" width=50% height=50%>
+![COVID graph](./assets/covid-graph.png)
 
 Back to March 2020. While it’s viscerally painful for many of us to remember, I hoped we’d learned some things from the pandemic. Data was key in the first wave of understanding the scale of the problem, forecasting (where possible) what demand services could expect, feeding back in real-time what was happening, and sharing this data widely across services to feed into emergency planning. As time went on, I think we saw increased public engagement in data, with open dashboards with data available to anyone with a laptop and time (there were many of those, with the economy shut) able to lend scrutiny. It’s possible some public health actions were reinforced in social distancing as the public saw what rates in their areas were doing – hammering home the point that to inform action, data needs to be clear to understand, in real-time, detailed or granular enough that people can see why it is relevant to them, and be linked to a clear action that is either encouraged, expected or enforced. Is that the kind of data we present to the public in peacetime? I’m not so sure.
 
