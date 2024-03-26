@@ -4,7 +4,7 @@
 
 ### Data and collaboration in early 2020
 
-![COVID in Wales](./assets/covid-wales.jpg)
+![COVID in Wales](/assets/covid-wales.jpg)
 
 
 I still get the shivers thinking back to it now. It’s early March 2020, I’m in the unfortunate position as a doctor training in public health in Welsh Government, and am wracking my brains trying to work between government, our Welsh public health and digital health agencies and the professions as we try to accelerate access to data on people infected with COVID-19 and how the pandemic is affecting the health system.
@@ -25,7 +25,7 @@ After learning some basic R coding language, my interest rose, leading me to wor
 
 #### Learning from the COVID-19 pandemic
 
-![COVID graph](./assets/covid-graph.png)
+![COVID graph](/assets/covid-graph.png)
 
 Back to March 2020. While it’s viscerally painful for many of us to remember, I hoped we’d learned some things from the pandemic. Data was key in the first wave of understanding the scale of the problem, forecasting (where possible) what demand services could expect, feeding back in real-time what was happening, and sharing this data widely across services to feed into emergency planning. As time went on, I think we saw increased public engagement in data, with open dashboards with data available to anyone with a laptop and time (there were many of those, with the economy shut) able to lend scrutiny. It’s possible some public health actions were reinforced in social distancing as the public saw what rates in their areas were doing – hammering home the point that to inform action, data needs to be clear to understand, in real-time, detailed or granular enough that people can see why it is relevant to them, and be linked to a clear action that is either encouraged, expected or enforced. Is that the kind of data we present to the public in peacetime? I’m not so sure.
 
@@ -33,7 +33,7 @@ The COVID inquiry is going on without much in the way of attention right now. Ha
 
 #### HCB Associates Ltd – a public health and healthcare consultancy focussed on data, evidence and collaboration
 
-![10 Hills Wellbeing Centre](./assets/wb-centre.png)
+![10 Hills Wellbeing Centre](/assets/wb-centre.png)
 
 I’m a GP now in the eastern outskirts of Newport. We’re building a wellbeing centre between the NHS and council aiming to deliver integrated, preventative services to a population of around 20,000. Data is key to what we do, and I think we’ve a lot to share around how citizen engagement, partnerships not only with the public sector but with business, charities and community groups and sound systems for data and innovation are key.
 
