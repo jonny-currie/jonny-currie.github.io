@@ -33,7 +33,7 @@ The COVID inquiry is going on without much in the way of attention right now. Ha
 
 #### HCB Associates Ltd – a public health and healthcare consultancy focussed on data, evidence and collaboration
 
-<img src="https://emedia1.nhs.wales/ABUhb/cache/file/F34F27D1-E6E5-46DB-825A28F5AB41CAEC_carouselimage.png" width=50% height=50%>
+![10 Hills Wellbeing Centre](./assets/wb-centre.png)
 
 I’m a GP now in the eastern outskirts of Newport. We’re building a wellbeing centre between the NHS and council aiming to deliver integrated, preventative services to a population of around 20,000. Data is key to what we do, and I think we’ve a lot to share around how citizen engagement, partnerships not only with the public sector but with business, charities and community groups and sound systems for data and innovation are key.
 
