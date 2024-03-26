@@ -6,7 +6,7 @@
 
 <img src="https://e3.365dm.com/20/03/2048x1152/skynews-coronavirus-wales_4953246.jpg" width=50% height=50%>
 
-[[https://e3.365dm.com/20/03/2048x1152/skynews-coronavirus-wales_4953246.jpg|alt=covidwales]]
+[https://e3.365dm.com/20/03/2048x1152/skynews-coronavirus-wales_4953246.jpg|alt=covidwales]
 
 
 I still get the shivers thinking back to it now. It’s early March 2020, I’m in the unfortunate position as a doctor training in public health in Welsh Government, and am wracking my brains trying to work between government, our Welsh public health and digital health agencies and the professions as we try to accelerate access to data on people infected with COVID-19 and how the pandemic is affecting the health system.
