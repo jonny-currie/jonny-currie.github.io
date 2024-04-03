@@ -14,6 +14,19 @@ Enough of my climate woes. I'm in Argentina to attend the <a href="https://phmov
 
 Ever since I first got involved in global and public health in university, I've been intrigued by some of the continent's approaches. Yes, there's a fair amount of romanticised idealism for the continent's politics, exemplified probably by what was once some ubiquitous imagery of a certain <a href="https://www.britannica.com/biography/Che-Guevara"> Argentinian doctor and military leader <a/> who played a pivotal role in the Cuban revolution. I'm sure there's much nuance here to appreciate, but I wonder what those who have shown respect and appreciation over the years for the political struggles abroad, for instance the <a href="https://es.wikipedia.org/wiki/Frente_Sandinista_de_Liberaci%C3%B3n_Nacional"> Sandinista movement in Nicaragua <a/>, would say about the scores of <a href="https://www.amnesty.org/en/latest/news/2021/09/prison-economic-ruin-repression-exile-nicaraguas-health-workers/"> disappearing doctors in the country <a/> care of the Ortega administration, or that the same country has among Latin America's <a href="https://confidencial.digital/english/who-report-covid-deaths-vastly-underreported-in-nicaragua/"> greatest underreported COVID deaths since 2020 </a>.
 
+Still, countries of the Latin American continent have demonstrated some genuinely effective policies and innovations when it comes to public health. Could that be due to their relative independence liberation from its colonial rulers in the 19th century, the freedom borne out of autonomy from the US and post-war global economic and development institutions? Or perhaps it's been in some cases a genuine commitment to social goals, or even (lacking resources for expensive services) necessity. 
+
+Anyway, as we'll see in the next few blogs, there is much we can learn when it comes to public health and healthcare from Latin America, particularly for those interested in the delivery of preventative, community-orientated and integrated services. Let's start though with some data to help us understand which countries to focus on.
+
+### Life expectancy in the Americas
+
+```{r setup, include = FALSE, message = FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = TRUE)
+library(tidyverse)
+#This is a code chunk
+```
+
+
 ![Che Guevara](/assets/che.jpg)
 
 
