@@ -4,9 +4,17 @@
 
 ### The People's Health Assembly 5, Mar Del Plata
 
-![PHA5](/assets/pha5.png)
-
 Writing this from a coffee shop in Buenos Aires. It's a rainstorm outside; I and many others are hiding from the elements, me personally given my lack of an umbrella, my sightseeing plans literally rained on by the weather.
 
 Enough of my climate woes. I'm in Argentina to attend the <a href="https://phmovement.org/pha5"> 5th People's Health Assembly </a>, an event organised every 5 years by activists in the <a href="https://phmovement.org/"> People's Health Movement </a>, a global network of grassroots health organisations from countries across the global South and North. The assembly is next week, giving me a bit of time to see some of the rest of the country (vanishingly little unfortunately, given the geography of Argentina), and learn a little about the history, politics and contexts that have shaped public health and healthcare in the Americas.
+
+![PHA5](/assets/pha5.png)
+
+### Politics and public health
+
+Ever since I first got involved in global and public health in university, I've been intrigued by some of the continent's approaches. Yes, there's a fair amount of romanticised idealism for the continent's politics, exemplified probably by what was once some ubiquitous imagery of a certain <a href="https://www.britannica.com/biography/Che-Guevara"> Argentinian doctor and military leader <a/> who played a pivotal role in the Cuban revolution. I'm sure there's much nuance here to appreciate, but I wonder what those who have shown respect and appreciation over the years for the political struggles abroad, for instance the <a href="https://es.wikipedia.org/wiki/Frente_Sandinista_de_Liberaci%C3%B3n_Nacional"> Sandinista movement in Nicaragua <a/>, would say about the scores of <a href="https://www.amnesty.org/en/latest/news/2021/09/prison-economic-ruin-repression-exile-nicaraguas-health-workers/"> disappearing doctors in the country <a/> care of the Ortega administration, or that the same country has among Latin America's <a href="https://confidencial.digital/english/who-report-covid-deaths-vastly-underreported-in-nicaragua/"> greatest underreported COVID deaths since 2020 </a>.
+
+![Che Guevara](/assets/che.jpg)
+
+
 
