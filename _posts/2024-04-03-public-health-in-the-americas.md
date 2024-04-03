@@ -1,8 +1,8 @@
-### Test
+## Public health in the Americas
 
 ---
 
-output:
-  md_document:
-    variant: markdown_github
----
+### The People's Health Assembly 5, Mar Del Plata
+
+![PHA5](/assets/pha5.png)
+
