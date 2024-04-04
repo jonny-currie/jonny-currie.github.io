@@ -24,12 +24,8 @@ Anyway, as we'll see in the next few blogs, there is much we can learn when it c
 
 ### Life expectancy in the Americas
 
-To understand the state of public health in the Americas, how it's changed over the years, and how it fares compared with other low- and middle-income countries around the world, we're going to draw on data from the World Bank's <a href="https://data.worldbank.org/"> Open Data platform <a/>. Data can be scraped in various ways from this database, but for ease we're going to use the *wbstats* package in R to download direct from the API.
+To understand the state of public health in the Americas, how it's changed over the years, and how it fares compared with other low- and middle-income countries around the world, we're going to draw on data from the World Bank's <a href="https://data.worldbank.org/"> Open Data platform <a/>. I'll have to add the code to an RMarkdown page at a later date, for now let's start with the graph below created with World Bank Open Data on regional life expectancy at birth trends, between 1960 and 2021:
 
-```{r setup, include = FALSE, message = FALSE}
-library(tidyverse)
-library(wbstats)
-#This is a code chunk
-```
+![Regional life expectancy trends](/assets/region_le.png)
 
 
