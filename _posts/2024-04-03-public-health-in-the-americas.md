@@ -24,8 +24,20 @@ Anyway, as we'll see in the next few blogs, there is much we can learn when it c
 
 ### Life expectancy in the Americas
 
-To understand the state of public health in the Americas, how it's changed over the years, and how it fares compared with other low- and middle-income countries around the world, we're going to draw on data from the World Bank's <a href="https://data.worldbank.org/"> Open Data platform <a/>. I'll have to add the code to an RMarkdown page at a later date, for now let's start with the graph below created with World Bank Open Data on regional life expectancy at birth trends, between 1960 and 2021:
+To understand the state of public health in the Americas, how it's changed over the years, and how it fares compared with other regions  around the world, we're going to draw on data from the World Bank's <a href="https://data.worldbank.org/"> Open Data platform <a/>. 
 
-![Regional life expectancy trends](/assets/region_le.png)
+The chart below shows the trend in life expectancy at birth for Latin American countries, compared with the regional average in Europe/Central Asia and North America, for data available between 1960-2021. Several of the countries have seen some impressive rises during the period, likely as a result both of changes in people's diet, income, education, and a whole lot more, as well as the healthcare services in each country. 
 
+![Life expectancy trends](/assets/la_le_trends.png)
+
+When we factor in though the wealth differences between the country's - Nicaragua for instance only generated $2255 per person in 2022, Peru $7125 per person and Brazil $8917 per person. Compare this with the $27536 per person generated on average in 2022 by countries in Europe and Central Asia, or even the staggering $74161 in countries in North America. What are some of these countries doing that, without anywhere near the comparable resources or spending available to their governments, is allowing citizens in their countries to live almost as long as those in high-income regions?
+
+As we'll see in the next few blogs - it's largely about commitments to social policies which support public health, strong investment in health, particularly primary care, and ensuring the benefits of these programmes are felt equitably across their populations. In the next few articles then we'll learn about how Cuba's Polyclinicos Comunitarios and Medicina General Integral have applied social, preventative and integrated healthcare at a neighbourhood level, Brazil's Family Health Strategy with its strong focus on community outreach, the Brigadista network in Nicaragua and Costa Rica's Equipos Basicos de Atencion Integral de Salud (OK, so the last one is cheating a bit, as Costa Rica is a fairly wealthy country by Latin American standards, but you'll see later why it's included).
+
+Throughout the blogs I want to make clear how much we could learn from health systems abroad if we gave ourselves the chance, the time, and the humility, to do so. So tune in tomorrow to learn more about some of these settings, and how we could integrate their approaches back home in the UK.
+
+Jonny, Co-Director HCB Associates
+
+<a href="mailto:jonny@hcb-associates.co.uk
+">jonny@hcb-associates.co.uk</a>
 
