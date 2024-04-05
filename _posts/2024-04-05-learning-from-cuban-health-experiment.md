@@ -28,6 +28,8 @@ Mention polyclinics in the UK and you'll get a groan. Ara Darzi, a former surgeo
 
 Let's focus for a moment back on Cuba though. **Polyclinicos Integrales** were developed in the early '60s in Cuba with the aim of unifying preventive and curative medicine, through a network of primary care centres in communities. Staff at polyclinics were to include at least one general practitioner, nurse, paediatrician, an obstetrician/gynaecologist and a social worker, with dentistry added to the polyclinic workforce shortlty after. Staff at the centres paid proactive visits to residents in their area, an activity Fitz credits with a reduction in hospital service use over the same period. I couldn't verify the data, but between 1965 and 1969 community visits by polyclinic staff doubled, whereas hospital visits (unclear admissions or clinic appointments) dropped by 9%. 
 
+![Polyclinic](/assets/policlinico.jpg)
+
 In 1974, **Polyclinicos Communitarios** were conceptualised, aiming to strengthen integration of the staff working in the polyclinics, with a renewed focus on home visits in the community. **Dispensarizacion**, a kind of outreach, was developed, where staff would actively look for conditions that affect key groups in the population (e.g. children, women, the elderly), with visits representing a significant proportion of the working week. Alongside this, staff were expected to work with community groups on health education and promotion, and the polyclinics became more embedded in undergraduate and postgraduate education. Community participation has been key, with local committees charged with mobilising the public to support the government's wide-ranging social programmes key agents to local health initiatives, from health promotion to mass vaccination campaigns. 
 
 Later, **consultarios** were created: smaller, doctor:nurse teams based in communities serving neighbourhoods in clinics and patients' homes, referring to polyclinics when more complex care is required. Prevention remains key, as does a focus on the social determinants of health, with staff apparently well versed in assessing for and supporting service users with issues in their wider life, ranging from housing, the environment and others, as they are in addressing more conventional medical issues.
@@ -35,6 +37,10 @@ Later, **consultarios** were created: smaller, doctor:nurse teams based in commu
 ### Training a new cohort of socially-aware health professionals
 
 The aspect that grabbed me the most from the book was the idea of selecting aspiring health professionals with a desire to work for social justice, alongside aptitude as a future clinician. The <a href="https://medicc.org/ns/elam/"> Latin American School of Medicine (ELAM) </a> appears to have done just that, focussed on recruitment from those with backgrounds typically either financially prohibited from studying medicine, or less encouraged due to stereotypes that medicine is a vocation for the more wealthy. The curriculum places a strong focus on health equity and the social determinants of health, as well as making clear the value (yet also prestige) of primary care as a career choice.
+
+
+![ELAM](/assets/ELAM-Bldg-2.jpg)
+
 
 ### Some critical thoughts
 
