@@ -43,5 +43,7 @@ Jonny, Co-Director HCB Associates
 <a href="mailto:jonny@hcb-associates.co.uk
 ">jonny@hcb-associates.co.uk</a>
 
+PS if you're interested in global health, what we can learn from other countries and some of the politics and debate surrounding why we often fail to appreciate and learn from a wide range of health innovations in other countries, I'd recommend Matt's book ***Decolonising Healthcare Innovation*** (see <a href="https://www.taylorfrancis.com/books/mono/10.4324/9781003301561/decolonizing-healthcare-innovation-matthew-harris"> here <a/>). Matt discusses his experience of trying to promote aspects of the Brazilian healthcare system back in the UK, and more widely summarises much of the bias and exclusionary practices of health research, innovation and investment, and outlines a series of examples of innovations that could show promise in the UK, as well as explaining how ***frugal innovation***, or knowledge transfer from settings with limited financial resources, could be better promoted.
+
 
 
