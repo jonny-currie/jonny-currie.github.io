@@ -37,7 +37,7 @@ Some, OK much, of this isn't at the discretion of local services. It needs syste
 
 But if the evidence coming from these countries is worth anything and plausible - and the data, particularly from Costa Rica, seems compelling, as does the logic of the entire approach - it's surely worth considering how these principles - shifting resource to community services, building an infrastructure of resourced, integrated, proactive services, supported by a network of community activists whose role is to scrutinise, challenge and promote community benefit - could be incorporated in health planning back in the UK?
 
-Let me know what you think - drop me an e-mail, find us on social media, and let's think how society post-austerity could really look.
+Let me know what you think - drop me an e-mail, find us on social media, and let's think how health and service delivery post-austerity could really look.
 
 Jonny, Co-Director HCB Associates 
 
