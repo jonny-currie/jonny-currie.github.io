@@ -39,7 +39,7 @@ But if the evidence coming from these countries is worth anything and plausible 
 
 Let me know what you think - drop me an e-mail, find us on social media, and let's think how society post-austerity could really look.
 
-Jonny, Co-Director HCB Associates
+Jonny, Co-Director HCB Associates 
 
 <a href="mailto:jonny@hcb-associates.co.uk
 ">jonny@hcb-associates.co.uk</a>
